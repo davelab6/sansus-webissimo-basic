@@ -1,5 +1,4 @@
-Copyright (c) 2011-02-11, Sergiy Tkachenko (<www.4thfebruary.com.ua|info@4thfebruary.com.ua>),
-with Reserved Font Name <Sansus Webissimo>.
+Copyright (c) 2011, Sergiy Tkachenko (www.4thfebruary.com.ua info@4thfebruary.com.ua), with Reserved Font Names 'Sansus', 'Webissimo'.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
